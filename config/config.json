@@ -15,10 +15,10 @@
     "dialect": "postgres"
   },
   "production": {
-    "username": "rblhyqcf",
-    "password": "haKazCS8aT2PDdTfDDVouEDUeo5x_Q9B",
-    "database": "rblhyqcf",
-    "host": "mahmud.db.elephantsql.com",
+    "username": "admin",
+    "password": "468bMjU3aQzYgUPA8I705TBGDXpC927W",
+    "database": "nodejs_pke7",
+    "host": "dpg-d0oupm6uk2gs739489kg-a",
     "dialect": "postgres",
     "dialectOptions": {
       "ssl": {
