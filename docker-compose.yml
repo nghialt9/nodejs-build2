@@ -20,6 +20,6 @@ services:
     ports:
       - "5432:5432"
     environment:
-      POSTGRES_USER: postgres
-      POSTGRES_PASSWORD: postgres
-      POSTGRES_DB: kcpm_nodejs2
+      POSTGRES_USER: admin
+      POSTGRES_PASSWORD: 468bMjU3aQzYgUPA8I705TBGDXpC927W
+      POSTGRES_DB: nodejs_pke7
